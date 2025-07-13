@@ -4,10 +4,6 @@ Basic score counter made with JS. First soloproject!
 
 Made in Scrimba IDE
 
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Preview
 
+Watch it live in action [here](https://jayxd1.github.io/Score-Counter/)
