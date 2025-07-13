@@ -1,6 +1,6 @@
 # Introduction
 
-Basic score counter made with JS. First soloproject!
+Basic score counter that has: +1-3 increments, reset button & A minimilastic design!
 
 Made in Scrimba IDE
 
